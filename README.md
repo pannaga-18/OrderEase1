@@ -1,5 +1,5 @@
 # 🍽️ OrderEase – Restaurant Order Management System
-OrderEase is an AI-assisted, real-time restaurant order management application designed to streamline operations across various roles in a restaurant environment. Currently under active development in collaboration with Shree Guru Residency, Mysuru, the app is tailored to meet the dynamic needs of multi-hotel management while ensuring secure and efficient workflows for each restaurant.
+OrderEase is an real-time restaurant order management application designed to streamline operations across various roles in a restaurant environment. Currently under active development in collaboration with Shree Guru Residency, Mysuru, the app is tailored to meet the dynamic needs of multi-hotel management while ensuring secure and efficient workflows for each restaurant.
 Built with scalability and real-world deployment in mind, OrderEase enables role-based access, secure hotel data isolation, real-time kitchen coordination, and seamless order handling from placement to payment—all through an intuitive mobile interface.
 <h2>Table of Contents</h2>
 <ul>
